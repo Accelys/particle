@@ -31,8 +31,8 @@ component-libraries:
       - ../../source/_patterns/01-atoms/badge
       - ../../source/_patterns/01-atoms/image
       - ../../source/_patterns/01-atoms/button
-      - ../../source/_patterns/01-atoms/branding
       - ../../source/_patterns/01-atoms/dropdown
+      - ../../source/_patterns/01-atoms/branding
       - ../../source/_patterns/01-atoms/breadcrumb
       - ../../source/_patterns/01-atoms/list-group
   molecules:
